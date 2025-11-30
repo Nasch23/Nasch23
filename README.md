@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Illkirch / Strasbourg) <br>- 💻 Passionné par le développement (PHP, Java, SQL, C#, etc.) <br>- 🚀 Intéressé par le développement logiciel, les réseaux et l’architecture des ordinateurs <br>- 🌍 Mes projets GitHub : principalement des projets d’études <br>- 🔥 Objectif : progresser, partager et apprendre <br>- 🎶 Centres d’intérêt : sport, langages de programmation, jeux vidéos
+Étudiant en BUT Informatique à l’Université de Strasbourg, passionné par le développement d’applications et le jeu vidéo. J’aime créer, apprendre et progresser à travers des projets variés, qu’ils soient personnels ou issus de mes études. Inspiré par les visual novels, les animes et les mangas, je cherche à réunir mes passions et le code dans des réalisations qui me ressemblent.
 
 
 # 💻 Tech Stack:
