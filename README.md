@@ -4,7 +4,7 @@
 
 ***
 
-# 👋 Salut, moi c'est Nathan ! 🚀
+# 👋 Salut, moi c'est Nathan !
 
 Étudiant en BUT Informatique à l’Université de Strasbourg. Je m'investis dans la création d'applications et de prototypes de jeux vidéo.
 
