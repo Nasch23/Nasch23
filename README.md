@@ -8,8 +8,6 @@
 
 Étudiant en BUT Informatique à l’Université de Strasbourg. Je m'investis dans la création d'applications et de prototypes de jeux vidéo.
 
-En parallèle, je suis constamment à la recherche de nouvelles compétences, notamment dans les technologies Web. En dehors du code, je trouve mon équilibre sur le terrain en pratiquant du **Handball**.
-
 ---
 
 ## Tech Stack
